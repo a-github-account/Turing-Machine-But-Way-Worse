@@ -2,6 +2,8 @@
 
 *Another note: I forgot to credit somebody1234 for putting amazing optimizations in otherwise terrible code written by my past self.*
 
+*Another note: A revamped, more recent version of this language can be found at https://github.com/a-github-account/Turing-Machine.io*
+
 # Turing-Machine-But-Way-Worse
 A programming language which is based off of Turing Machines but supports I/O
 
