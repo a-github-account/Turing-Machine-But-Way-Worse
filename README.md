@@ -1,6 +1,6 @@
 *Note: I am MilkyWay90 on a new account due to me deleting my old account*
 
-*Another note: I forgot to credit somebody1234 for putting amazing optimizations in otherwise terrible code written by my past self.*
+*Another note: I forgot to credit somebody1234 for putting amazing optimizations in code written by my past self.*
 
 *Another note: A revamped, more recent version of this language can be found at https://github.com/a-github-account/Turing-Machine.io*
 
